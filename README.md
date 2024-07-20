@@ -1,2 +1,2 @@
 # srknutritionals
-iquid-supplement-contract-manufacturer
+liquid-supplement-contract-manufacturer
