@@ -1,0 +1,9 @@
+User-agent: *
+
+
+Disallow: 
+
+Disallow: /cgi-bin/
+
+
+Sitemap: https://www.srknutritionals.com/sitemap.xml
